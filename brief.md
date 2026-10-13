@@ -17,6 +17,33 @@ Artificial Intelligence (AI):
 
 AI helps predict network problems and detect unusual activity.Congestion: Predict traffic peaks and help allocate network resources.Outages: Identify early warning signs of equipment failure.Cyberattacks: Detect suspicious network traffic and potential threats.
 
+Mobile Technology:
+
+Mobile technology enables emergency responders to communicate through smartphones, tablets and specialised devices.Congestion: Give priority to authorised emergency users and critical communications.Outages: Support alternative connectivity and offline access to essential information.Cyberattacks: Secure devices using encryption, authentication and remote security management.
+
+Network Engineering:
+
+Network engineering provides the connectivity required for dependable 5G communications.
+Congestion: Use Quality of Service (QoS) and network slicing to prioritise emergency traffic.
+Outages: Use redundant connections, alternative routes and backup infrastructure.
+Cyberattacks: Monitor network traffic and isolate affected network components.
+Application: Design a resilient 5G network that maintains critical communications during heavy demand and infrastructure failures.
+
+
+Cybersecurity:
+
+Cybersecurity protects the network, devices, applications and sensitive emergency information from malicious activity.Congestion: Detect and mitigate denial-of-service attacks.
+Outages: Maintain secure backups and incident recovery plans.
+Cyberattacks: Apply strong authentication, encryption, access controls and continuous threat monitoring.Application: Implement security controls and incident response procedures to protect the service and restore operations quickly.
+
+
+Data:
+Data management ensures that network information is collected, protected and analysed effectively.Congestion: Analyse traffic patterns to identify capacity problems.
+Outages: Monitor service performance and help identify the causes of failures.
+Cyberattacks: Analyse security logs to detect suspicious behaviour and support investigations.
+Application: Use real-time dashboards and analytics to monitor network health and support informed decisions.
+
+
 PART1
 
 version:NAFATH-V2.

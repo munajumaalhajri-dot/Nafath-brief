@@ -40,6 +40,7 @@ Cyberattacks: Apply strong authentication, encryption, access controls and conti
 
 
 Data:
+
 Data management ensures that network information is collected, protected and analysed effectively.Congestion: Analyse traffic patterns to identify capacity problems.
 Outages: Monitor service performance and help identify the causes of failures.
 Cyberattacks: Analyse security logs to detect suspicious behaviour and support investigations.

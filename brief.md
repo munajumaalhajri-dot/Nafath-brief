@@ -30,6 +30,7 @@ Cybersecurity protects the system against hacking and information theft through 
 The system collects appointment details, medical records, and test results and stores them in organized databases. These data are analyzed to prepare reports, improve resource allocation, and support medical and administrative decisions.
 
 PART1
+
 version:NAFATH-V2.
 TRACK:Data Science and Analysis.
 

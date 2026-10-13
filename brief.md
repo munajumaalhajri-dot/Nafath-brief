@@ -1,33 +1,21 @@
  the scenario.
  
- A Smart School Management System:Imagine that a school faces several problems, such as students arriving late to classes, difficulty monitoring academic performance, excessive paperwork, and delays in communicating with parents.
-The school administration decides to develop an intelligent electronic system that connects students, teachers, parents, and administrators through one platform.
-The system allows the school to monitor attendance, display lessons and assignments, analyze academic results, and send notifications while protecting the personal information of all users.
+ Building a Resilient 5G Service for Emergency Responders.A 5G service for emergency responders must do more than deliver high-speed connectivity. It must keep critical communications available when public networks are overloaded, infrastructure fails or malicious actors attempt to disrupt operations.
+The project should integrate six IT disciplines: network engineering, cybersecurity, cloud and infrastructure, software engineering, data management, and IT service management. Together, they provide the technical foundations, operational controls and recovery capabilities needed to protect essential communications.
+A key design principle is that no single technology guarantees resilience. Network slicing, redundant infrastructure and security controls must be supported by tested recovery procedures, continuous monitoring and clear operational responsibilities.
 
 The Role of the Six IT Fields:
 
-Software:
+Software Engineering:
 
-A school management platform is developed to manage attendance, timetables, assignments, examinations, and grades. It simplifies the work of teachers and school administrators.
-Artificial Intelligence (AI)
+Software engineering ensures that emergency communication applications and dispatch systems operate reliably.
+Congestion: Applications prioritise critical messages and use bandwidth efficiently.
+Outages: Applications support automatic reconnection and offline functions where possible.
+Cyberattacks: Secure coding, software updates and vulnerability testing reduce security risks.
 
-AI is used to analyze symptoms and medical data, helping doctors identify cases that may require urgent attention and predict demand for hospital departments. Final medical decisions remain the responsibility of healthcare professionals.
+Artificial Intelligence (AI):
 
-3. Mobile Technology
-
-A mobile application allows patients to book appointments, receive reminders, view authorized medical test results, and communicate with the hospital easily.
-
-4. Networking
-
-The network connects computers, servers, medical devices, and hospital applications, allowing information to be exchanged quickly between departments. Wireless networks can also connect mobile devices within the hospital.
-
-5. Cybersecurity
-
-Cybersecurity protects the system against hacking and information theft through data encryption, user authentication, access permissions, suspicious activity monitoring, and secure backups.
-
-6. Data
-
-The system collects appointment details, medical records, and test results and stores them in organized databases. These data are analyzed to prepare reports, improve resource allocation, and support medical and administrative decisions.
+AI helps predict network problems and detect unusual activity.Congestion: Predict traffic peaks and help allocate network resources.Outages: Identify early warning signs of equipment failure.Cyberattacks: Detect suspicious network traffic and potential threats.
 
 PART1
 

@@ -1,6 +1,8 @@
  the scenario.
  
- Building a Resilient 5G Service for Emergency Responders.A 5G service for emergency responders must do more than deliver high-speed connectivity. It must keep critical communications available when public networks are overloaded, infrastructure fails or malicious actors attempt to disrupt operations.
+ Building a Resilient 5G Service for Emergency Responders
+ 
+ .A 5G service for emergency responders must do more than deliver high-speed connectivity. It must keep critical communications available when public networks are overloaded, infrastructure fails or malicious actors attempt to disrupt operations.
 The project should integrate six IT disciplines: network engineering, cybersecurity, cloud and infrastructure, software engineering, data management, and IT service management. Together, they provide the technical foundations, operational controls and recovery capabilities needed to protect essential communications.
 A key design principle is that no single technology guarantees resilience. Network slicing, redundant infrastructure and security controls must be supported by tested recovery procedures, continuous monitoring and clear operational responsibilities.
 

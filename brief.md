@@ -98,7 +98,7 @@ The incident response lifecycle is a structured process organizations use to pre
 
 A data schema defines how data is organized and how different tables relate to one another. In data warehousing, star and snowflake schemas are two common designs used to support reporting and analytics.A star schema contains a central fact table connected directly to dimension tables. A snowflake schema also has a central fact table, but its dimension tables are divided (Data) https://computingbook.org/Data.pdf
 
-Misconception in My Track:
+Misconception in My Track: Data Science and Analysis 
 
 Misconception:Data analysis always produces accurate results because data consists of numbers and facts.Correction: Inaccurate or biased data, or the use of inappropriate analysis methods, can lead to incorrect results. Therefore, data quality must be checked, and results must be interpreted carefully before making decisions.
 

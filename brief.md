@@ -49,7 +49,7 @@ Application: Use real-time dashboards and analytics to monitor network health an
 
 PART1
 
-version:NAFATH-V2.
+VERSION:NAFATH-V2.
 
 TRACK:Data Science and Analysis.
 

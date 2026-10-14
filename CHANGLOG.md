@@ -1,7 +1,7 @@
 05686a60f9f7f88abfe953ed004d0988dd0d0184
 080cfdbe96bd782ab00517b4ad2e93fc7062442e
 deefceddfb28274ec922a092e9e9fbd5d0112253
-28a8d0a7459fdae66245e6727e9eba2a3125f393 
-b7026069fe08b507664224eefe63af4abd3a248d
-ba8a07d882f32c74ea73534e60a9ef13e31647d2
-92f8d5c4a8e5ee290d3a79d34a06fe44cd6614cb
+
+b702606 research: software, ai, mobile, network 
+ba8a07 overview: connect the six subtopics
+92f8d5c4 skeleton: NAFATH-V2
